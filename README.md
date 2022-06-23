@@ -1,1 +1,2 @@
 # Inf-MK
+# localis hozzászólás
